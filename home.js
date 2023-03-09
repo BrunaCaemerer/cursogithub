@@ -1,1 +1,3 @@
-function new Promise((resolve, reject) => {})
+function mostraNome(name){
+    return nome
+}
